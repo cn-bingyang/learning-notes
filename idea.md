@@ -56,7 +56,34 @@
 	② 拥有写权限的用户:
 	进行修改,直接把自该写到master分支，第二种，创建分支，然后pull request 
 	
-	没收到pull request之前查看用户fork修改的方法：，点击Grapha，找到network查看那些用户fork了项目进行了修改
+	没收到pull request之前查看用户fork修改的方法：，点击Grapha，找到network查看那些用户fork了项目进行了修改  
+
+14.issues		
+	
+- githhub三大套件
+	- issues:创建事务卡片（new issue)  
+			
+		Issues:创建事务卡片（new issue)
+		添加标题和内容，在Assignee中部署谁完成任务
+		讨论时，可以@好友进行讨论
+		selecting thethem上传图片
+	- wiki手册
+	- GitPages项目网站  
+
+15.github 搜索 		
+ 	
+	Github Secret
+	1,快捷键T，打开检索文件功能。
+	2，根据项目来找牛人 
+	
+
+16.github学习书籍
+	GitHub客户端只能满足一些常见的需求，要更高级必须要学着用Git命令行。 
+	《Pro Git》
+	github虽不开源，无法部署到自己服务器。
+	但，gitLab开源
+
+	
 	
 
 
