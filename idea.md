@@ -40,4 +40,23 @@
 	compare & pull request:意思是请求项目的维护者和协作者对我的代码进行比较讨论,是否合适拉我这个分支上的代码到master分支上.  
 	在进行pull request之前一定要保证所有的任务都同步到了Github之上。
 
+13.开源项目的贡献流程
+	
+
+- 1.将项目fork过来，
+- 2.clone到本地仓库，修改信息，
+- 3.sysc与远端仓库进行同步，
+- 4.在github页面进行pull request提交到开发者哪里，进行协商等待开发者合并。完成后可以将项目删除	
+	
+	一些细小的修改：Quick Pull Requests
+	
+	① 普通用户：
+	在原文件的网页页面点击编辑，然后系统会自动为你创建一个fork,然后进入Propose file change，直接在页面进行pull request 
+	
+	② 拥有写权限的用户:
+	进行修改,直接把自该写到master分支，第二种，创建分支，然后pull request 
+	
+	没收到pull request之前查看用户fork修改的方法：，点击Grapha，找到network查看那些用户fork了项目进行了修改
+	
+
 
