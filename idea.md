@@ -8,5 +8,9 @@
 5. 添加一个版本,备注
 6. revert一个版本.回滚,抵消上次的版本操作
 7. undo most recent commit 撤销最近提交到changes
+<<<<<<< HEAD
 8. new branch name 新建一个新的分支
 9. default 系统默认的
+=======
+8. new branch name 新建一个新的分支
+>>>>>>> refs/heads/idea
