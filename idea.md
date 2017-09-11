@@ -39,5 +39,5 @@
 	pull request:意思是请求项目的维护者拉我这个分支上的代码到master分支上  
 	compare & pull request:意思是请求项目的维护者和协作者对我的代码进行比较讨论,是否合适拉我这个分支上的代码到master分支上.  
 	在进行pull request之前一定要保证所有的任务都同步到了Github之上。
-13.11111
+
 
